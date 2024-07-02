@@ -104,7 +104,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 80px;
 }
 
 @media (max-width: 768px) {
@@ -334,6 +334,7 @@ h6 {
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
+
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -626,6 +627,7 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 100px;
+  
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
